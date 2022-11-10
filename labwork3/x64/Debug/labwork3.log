@@ -1,0 +1,3 @@
+﻿  labwork3.cpp
+C:\Nicat\addition\vgtu\c++\labwork3\labwork3\labwork3.cpp(99): warning C4715: 'compareAndSet': not all control paths return a value
+  labwork3.vcxproj -> C:\Nicat\addition\vgtu\c++\labwork3\x64\Debug\labwork3.exe
